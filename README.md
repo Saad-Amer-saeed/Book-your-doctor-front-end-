@@ -7,12 +7,15 @@
 <div style="display: flex; justify-content: space-around;">
     <img src="https://i.ibb.co/w6wC7zN/12.jpg" style="width:300px; height:550px;">
     <img src="https://i.ibb.co/TtYWvxM/44.jpg" style="width:300px; height:550px;">
+</div>
+<div style="display: flex; justify-content: space-around;">
     <img src="https://i.ibb.co/SXShJRw/photo-2024-06-26-11-30-34-2.jpg" style="width:300px; height:550px;">
+    <img src="https://i.ibb.co/b3y0NTM/photo-2024-06-26-11-30-34.jpg" style="width:300px; height:550px;">
+ 
 </div>
 
 <!-- Second row of images -->
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://i.ibb.co/b3y0NTM/photo-2024-06-26-11-30-34.jpg" style="width:300px; height:550px;">
     <img src="https://i.ibb.co/8KvTN9C/photo-2024-06-26-11-30-35-2.jpg" style="width:300px; height:550px;">
     <img src="https://i.ibb.co/rmZKR6C/photo-2024-06-26-11-30-35-3.jpg" style="width:300px; height:550px;">
 </div>
